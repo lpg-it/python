@@ -1,5 +1,5 @@
 ---
-title: 『Python基础』第1节 Windows环境下安装Python3.x
+『Python基础』第1节 Windows环境下安装Python3.x
 ---
 
 # 一. Python安装

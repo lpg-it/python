@@ -1,5 +1,5 @@
 ---
-title: 『Python基础』第2节 Python简介及入门
+『Python基础』第2节 Python简介及入门
 ---
 
 # 一. Python介绍
