@@ -1,5 +1,20 @@
 ---
-『Python基础』第5节：条件控制
+title: 『Python基础』第5节：条件控制
+date: '2019-08-05 22:30'
+keywords: 条件控制
+description: 条件控制
+categories: Python全栈之路
+tags:
+  - Python基础
+avatar: 'https://wx1.sinaimg.cn/large/006bYVyvgy1ftand2qurdj303c03cdfv.jpg'
+photos: >-
+  https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-1024x576.png
+author: 李培冠
+authorLink: https://lipeiguan.top
+authorAbout: 一个好奇的人
+authorDesc: 一个好奇的人
+comments: true
+abbrlink: 1805276075
 ---
 
 ## `if` 语句的使用

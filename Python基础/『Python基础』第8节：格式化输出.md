@@ -1,5 +1,20 @@
 ---
-『Python基础』第8节：格式化输出
+title: 『Python基础』第8节：格式化输出
+date: '2019-08-12 23:34'
+keywords: 格式化输出
+description: 格式化输出
+categories: Python全栈之路
+tags:
+  - Python基础
+avatar: 'https://wx1.sinaimg.cn/large/006bYVyvgy1ftand2qurdj303c03cdfv.jpg'
+photos: >-
+  https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-1024x576.png
+author: 李培冠
+authorLink: https://lipeiguan.top
+authorAbout: 一个好奇的人
+authorDesc: 一个好奇的人
+comments: true
+abbrlink: 122518175
 ---
 
 现在有一个需求, 询问用户的姓名, 年龄, 工作, 爱好, 然后打印成以下格式
@@ -73,6 +88,5 @@ print(msg)
 ```
 
   我们注意到, 当我们真的只是想表达一个%的时候, 只需要写两个%就可以了, 第一个%是对第二个%的转义, 是告诉Python解释器这只是一个单纯的%, 而不是占位符.
-
 
 

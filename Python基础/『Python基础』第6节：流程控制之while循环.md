@@ -1,5 +1,20 @@
 ---
-『Python基础』第6节：流程控制之while循环
+title: 『Python基础』第6节：流程控制之while循环
+keywords: 流程控制之while循环
+description: 流程控制之while循环
+categories: Python全栈之路
+tags:
+  - Python基础
+avatar: 'https://wx1.sinaimg.cn/large/006bYVyvgy1ftand2qurdj303c03cdfv.jpg'
+photos: >-
+  https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-1024x576.png
+author: 李培冠
+authorLink: 'https://lipeiguan.top'
+authorAbout: 一个好奇的人
+authorDesc: 一个好奇的人
+comments: true
+abbrlink: 349609197
+date: 2019-08-08 23:31:26
 ---
 
 在生活中经常遇到循环的事情, 比如循环列表播放歌曲等. 在Python中, 也有循环, 就是其流程控制语句while.
